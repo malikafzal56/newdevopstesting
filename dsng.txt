@@ -1,0 +1,4 @@
+cables
+conncetor
+lnbs
+dish
