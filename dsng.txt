@@ -1,4 +1,5 @@
 cables
 conncetor
 lnbs
+bucs
 dish
